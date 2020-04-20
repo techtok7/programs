@@ -1,18 +1,17 @@
+/* 
+    Program No. 1
+    Title       : Odd / Even
+    Description :
+        Take Integer From  User,
+    Check  The  Input is Odd or
+    Even Using if else.
+
+    Input   : 5
+    Output  : Enter Integer is odd
+*/
 #include <stdio.h>
 int main()
 {
-    /* 
-        Program No. 1
-        Title       : Odd / Even
-        Description :
-            Take Integer From  User,
-        Check  The  Input is Odd or
-        Even Using if else.
-
-        Input   : 5
-        Output  : Enter Integer is odd
-    */
-
     int n;
     scanf("%d",&n);
 
