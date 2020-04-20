@@ -4,14 +4,14 @@
         Write a Program That Take Input(N)
     and Print Sum of Odd and Even Numbers
     From 1 to N.
-    
+
     Conditions  :
         No Use of Loops, if...else, switch
     case and Ternary Operator
 
     Input   : 10
     Output  : Odd  : 25
-              Even : 30
+                Even : 30
 
     Solution    :
         It's Posible By Small Formula Which 
